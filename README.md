@@ -1,6 +1,8 @@
 Based on https://userstyles.org/styles/106251/oracle-java-tutorial-black
 
-Now main font not white but lightgray and I delete header and footer.
+Difference:
+Main font not white but lightgray and deleted header and footer.
+Code petrified and now and at navigation we can see visited links.
 
 ![screenshot](/screenshot-tutorial.png)
 ![screenshot](/screenshot-javadoc.png)
